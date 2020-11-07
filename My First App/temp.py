@@ -19,3 +19,5 @@ elif high_low_choice == 'high' and random_num in range((max_num // 2) + 1, max_n
     print('You guessed correct, you play first.\n')
 else:
     print('You guessed incorrectly, AI plays first.\n')
+
+# this is added to test github sync settings
