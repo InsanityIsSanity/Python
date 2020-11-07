@@ -1,0 +1,5 @@
+Scissor Game Wins: 5
+Scissor Game Losses: 2
+Guess Game Wins: 33
+Guess Game Losses: 3
+Total App Loads: 21
