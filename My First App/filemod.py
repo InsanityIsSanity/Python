@@ -3,7 +3,7 @@ def app4_file_mod(user_name):
 
 
 def file_handle(name, mode):
-    file_name = name
+    file_name = name 
     file_mode = mode
     file = open(f'{file_name}.txt', f'{file_mode}')
 
